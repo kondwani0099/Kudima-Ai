@@ -1,5 +1,5 @@
 class FirebaseConfig {
-  static const String apiKey = "`AIzaSyCJe2IOpAZvuWSMXafC8b6Ejdsr9ejIjJA`";
+  static const String apiKey = "``";
   static const String authDomain = "kudima-ai.firebaseapp.com";
   static const String projectId = 'kudima-ai';
   static const String storageBucket = 'kudima-ai.appspot.com';
